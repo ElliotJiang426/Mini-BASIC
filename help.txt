@@ -1,0 +1,10 @@
+input statements with a line number ahead
+using LET statment to name an variable and give it an value
+using IUPUT statement to give anvariable the value you input
+using PRINT statement to print the value of an variable
+using GOTO statement to change the current line to what you assign
+using IF...THEN statement to make a conditional statement
+using REM statement to make comments
+using END statement to mark the end of your codes
+if you want to change a line of code, re-input it with line number
+if you want to delete a line of code, just input its line number with nothing behind
